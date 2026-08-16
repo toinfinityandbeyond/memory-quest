@@ -1,0 +1,9 @@
+<svg width="256" height="256" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icono de estrella sin relleno con borde turquesa para Memory Master -->
+  <path d="M50 15 L62 38 L88 42 L68 60 L73 85 L50 73 L27 85 L32 60 L12 42 L38 38 Z" 
+        fill="none" 
+        stroke="#2dd4bf" 
+        stroke-width="4" 
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+</svg>
